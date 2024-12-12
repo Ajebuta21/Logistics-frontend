@@ -1,0 +1,1 @@
+export const form = "w-5/6 md:w-1/2 lg:w-1/3 p-5 flex flex-col gap-2 bg-white shadow";
